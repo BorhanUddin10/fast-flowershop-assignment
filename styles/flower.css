@@ -1,0 +1,26 @@
+nav{
+    display: flex;
+    background: rgba(229, 84, 115, 0.10);
+    align-items: center;
+
+}
+header{
+    display: flex;
+    align-items: center;
+   
+}
+div{
+   padding: 250px;
+}
+.title{
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.f-buttion{
+    background-color: #E55473;
+    color: wheat;
+    padding: 20px 40px;
+    font-size: 20px;
+}
