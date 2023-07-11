@@ -2,15 +2,12 @@ nav{
     display: flex;
     background: rgba(229, 84, 115, 0.10);
     align-items: center;
-
-}
-header{
-    display: flex;
-    align-items: center;
-   
+   }
+.frofile-pic{
+    padding-right: 100px;
 }
 div{
-   padding: 250px;
+    padding: 250px;
 }
 .title{
     font-size: 45px;
@@ -23,4 +20,36 @@ div{
     color: wheat;
     padding: 20px 40px;
     font-size: 20px;
+}
+/*main-section*/
+
+.second-section-p{
+    display: flex;
+    background-color: bisque
+}
+    
+.flower-asset{
+   width: 10px;
+   
+}
+.g-buttion{
+    background-color: #E55473;
+    color: wheat;
+    padding: 20px 20px;
+    font-size: 20px;
+}
+.Instagram-section{
+    text-align: center;
+
+}
+.last-section{
+    text-align: center;
+    
+    
+}
+.footer-section{
+    text-align: center;
+    background: black;
+    color: whitesmoke;
+    padding: 100px;
 }
